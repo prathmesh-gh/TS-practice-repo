@@ -1,5 +1,6 @@
 // ================================
 // Functions in TypeScript
+
 // ================================
 
 // Normal function with typed parameters
